@@ -1,0 +1,4 @@
+[submodule "subModule"]
+	path = subModule
+	url = C:/work/test_repo/remote_repo/repo_2/test_repo2.git
+	branch = develop
